@@ -1,0 +1,21 @@
+Ques: What is the difference between a library and a framework?
+Ans: 
+library: A library is a collection of pre-written functions, classes, or modules that can be reused by a developer to perform specific tasks.
+Framework: Framework is a pre-built, integrated system that provides a structure and guidelines for building applications. It often includes a set of libraries and a predefined architecture. 
+
+Ques: What is CDN? Why do we use it?
+Ans: 
+CDN: A Content Delivery Network (CDN) is a distributed network of servers located in multiple data centers across various geographical locations.
+The primary purpose of a CDN is to improve the performance, reliability, and availability of delivering web content, including text, images, videos, scripts, and other assets, to end-users.
+
+Ques: What is cross-origin in the script tag?
+Ans: 
+Cross-origin: Cross-origin refers to a situation where a web page or web application loaded from one domain (origin) attempts to fetch or interact with resources, data, or scripts from a different domain or origin. This concept is a fundamental part of web security to prevent malicious actions and protect user data.
+
+Ques: What is the difference between React and ReactDOM?
+Ans:
+React is the primary library for building user interfaces with components and managing their state, while ReactDOM is a specific package that handles the rendering of those React components in the browser. 
+
+Ques: Difference between react.development.js and react.production.js files via CDN?
+Ans:
+react.development.js is for development with informative warnings and error messages, while react.production.js is for production with optimized performance and a smaller file size.
